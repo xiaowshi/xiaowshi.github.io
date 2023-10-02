@@ -6,9 +6,9 @@
 
 ## Education
 - M.S., Physics & Engineering | University College London | London, UK (_Oct 2023_)
-Thesis: Self-supervised Monocular Depth Estimation in Endoscopic Surgery. Supervisors: Dr. Mobarakol Islam, Prof. Matt Clarkson
-Skills: ·Project Management ·Computer Vision ·Image Guided Surgery  ·Pytorch ·Linux Shell
-Notable modules: ·Computational MRI, ·Computer Assisted Surgery and Therapy, ·Imaging with Ionising radiation, ·Programming for Medical Image Analysis,
+> Thesis: Self-supervised Monocular Depth Estimation in Endoscopic Surgery. Supervisors: Dr. Mobarakol Islam, Prof. Matt Clarkson
+> Skills: ·Project Management ·Computer Vision ·Image Guided Surgery  ·Pytorch ·Linux Shell
+> Notable modules: Computational MRI, Computer Assisted Surgery and Therapy, ·Imaging with Ionising radiation, ·Programming for Medical Image Analysis,
 Clinical Practice
 
 -B.Eng., Computer Sci & Electrical Engineering | University of Liverpool | Liverpool, UK (_June 2022_)
