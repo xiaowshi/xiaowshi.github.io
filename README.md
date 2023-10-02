@@ -11,10 +11,10 @@
 > Notable modules: Computational MRI, Computer Assisted Surgery and Therapy, ·Imaging with Ionising radiation, ·Programming for Medical Image Analysis,
 Clinical Practice
 
--B.Eng., Computer Sci & Electrical Engineering | University of Liverpool | Liverpool, UK (_June 2022_)
-> Thesis: Graph Neural Network for Similarity Learning
+- B.Eng., Computer Sci & Electrical Engineering | University of Liverpool | Liverpool, UK (_June 2022_)
+> - Thesis: Graph Neural Network for Similarity Learning
 > Skills: Verilog, Solidworks, C++, Java, SQL,
-> Notable modules: 
+> - Notable modules: 
 
 
 ## Work Experience
