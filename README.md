@@ -12,8 +12,9 @@
 Clinical Practice
 
 -B.Eng., Computer Sci & Electrical Engineering | University of Liverpool | Liverpool, UK (_June 2022_)
-Thesis: 
-Skills: Verilog, Solidworks, C++, Java, SQL, 
+> Thesis: Graph Neural Network for Similarity Learning
+> Skills: Verilog, Solidworks, C++, Java, SQL,
+> Notable modules: 
 
 
 ## Work Experience
