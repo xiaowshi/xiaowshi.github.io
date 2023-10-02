@@ -36,5 +36,5 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 
 ## Certificates
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
+kjhlkjh
 
