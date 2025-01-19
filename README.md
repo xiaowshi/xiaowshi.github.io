@@ -1,20 +1,15 @@
-# xiaowei shi 
-
-#### Software / Medical engineer | M.S. Physics and engineering @ UCL23
-
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+📫 Reach me through [LinkedIn](https://www.linkedin.com/in/xiaowei-shi-liverpool) and [Email](xiaowshi@outlook.com)
 
 ## Education
-- M.S., Physics & Engineering | University College London | London, UK (_Oct 2023_)
+- M.S., Physics & Engineering @University College London (_Oct 2023_)
 > - Thesis: Self-supervised Monocular Depth Estimation in Endoscopic Surgery. Supervisors: Dr. Mobarakol Islam, Prof. Matt Clarkson
 > - Skills: ·Project Management ·Computer Vision ·Image Guided Surgery  ·Pytorch ·Linux Shell
-> - Notable modules: Computational MRI, Computer Assisted Surgery and Therapy, ·Imaging with Ionising radiation, ·Programming for Medical Image Analysis,
-Clinical Practice
 
-- B.Eng., Computer Sci & Electrical Engineering | University of Liverpool | Liverpool, UK (_June 2022_)
+
+- B.Eng., Computer Sci & Electrical Engineering @University of Liverpool (_June 2022_)
 -- Thesis: Graph Neural Network for Similarity Learning
 > - Skills: Verilog, Solidworks, C++, Java, SQL,
-> - Notable modules: 
+
 
 
 ## Work Experience
@@ -33,9 +28,8 @@ Clinical Practice
 
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
-![Bike Study](/assets/img/bike_study.jpeg)
 
 
 ## Certificates
-kjhlkjh
+
 
