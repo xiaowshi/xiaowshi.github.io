@@ -3,7 +3,7 @@
 ## Education
 - M.S., Physics & Engineering @University College London (_Oct 2023_)
 > - Thesis: Self-supervised Monocular Depth Estimation in Endoscopic Surgery. Supervisors: Dr. Mobarakol Islam, Prof. Matt Clarkson
-> - Skills: ·Project Management ·Computer Vision ·Image Guided Surgery  ·Pytorch ·Linux Shell
+> - Skills: ·Project Management ·Computer Vision ·Image Guided Surgery  ·Pytorch ·Linux
 
 
 - B.Eng., Computer Sci & Electrical Engineering @University of Liverpool (_June 2022_)
@@ -29,6 +29,9 @@
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
 
+- 🤖 [Paper on AIS 2024](https://xiaowshi.github.io/Long-Term_Reprojection_Loss/)  Self-supervised depth estimation and reconstruction in Surgery
+
+- 🥈 [Kaggle Silver](https://www.kaggle.com/itsshi/competitions) use LLM to detect AI generated text
 
 ## Certificates
 
