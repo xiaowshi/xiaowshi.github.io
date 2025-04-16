@@ -1,38 +1,22 @@
 📫 Reach me through [LinkedIn](https://www.linkedin.com/in/xiaowei-shi-liverpool) and [Email](xiaowshi@outlook.com)
 
 ## Education
-- M.S., Physics & Engineering @University College London (_Oct 2023_)
-> - Thesis: Self-supervised Monocular Depth Estimation in Endoscopic Surgery. Supervisors: Dr. Mobarakol Islam, Prof. Matt Clarkson
-> - Skills: ·Project Management ·Computer Vision ·Image Guided Surgery  ·Pytorch ·Linux
-
+- M.S., Physics & Engineering @University College London (_Dec 2023_)
 
 - B.Eng., Computer Sci & Electrical Engineering @University of Liverpool (_June 2022_)
--- Thesis: Graph Neural Network for Similarity Learning
-> - Skills: Verilog, Solidworks, C++, Java, SQL,
-
 
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Software Engineer @ Shopee (_Aug 2024 - Present_)**
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+
 
 ## Projects
+- 🤖 [Self-supervised depth estimation and reconstruction](https://xiaowshi.github.io/Long-Term_Reprojection_Loss/)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+- 📄 [Paper on AIS 2024](https://xiaowshi.github.io/Long-Term_Reprojection_Loss/)  Self-supervised depth estimation and reconstruction in Surgery
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+- 🥈 [Kaggle Silver](https://www.kaggle.com/itsshi/competitions) Use LLM to detect AI generated text
 
-
-- 🤖 [Paper on AIS 2024](https://xiaowshi.github.io/Long-Term_Reprojection_Loss/)  Self-supervised depth estimation and reconstruction in Surgery
-
-- 🥈 [Kaggle Silver](https://www.kaggle.com/itsshi/competitions) use LLM to detect AI generated text
-
-## Certificates
-
+- 🩻 [Computational MRI Simulation](https://xiaowshi.github.io/Computational_MRI/) 
 
